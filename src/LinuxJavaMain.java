@@ -5,6 +5,7 @@ public class LinuxJavaMain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Linux");
+		System.out.print("---hello linux-----");
 
 	}
 
