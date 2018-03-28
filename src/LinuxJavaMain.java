@@ -8,6 +8,7 @@ public class LinuxJavaMain {
 		System.out.print("---hello linux-----");
 		System.out.print("---hello linux-----");
 		System.out.print("---hello linux-----");
+		System.out.print("---hello linux-----");
 	}
 
 }
